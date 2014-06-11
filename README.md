@@ -5,7 +5,7 @@
 ##### Mailing-list
 
 L'utilisateur a la possibilité de s'inscrire à une liste de diffusion afin d'être informé de la sortie de l'application « Pourquoi ? »  sur l'AppStore.
-Dès lors, son adresse e-mail est ajoutée à la base de données associé à une URL de désinscription unique (nombre aléatoire (rand(1111, 99999)) + hash md5 de l'e-mail + nombre aléatoire(rand(1111, 99999))).
+Dès lors, son adresse e-mail est ajoutée à la base de données associée à une URL de désinscription unique (nombre aléatoire (rand(1111, 99999)) + hash md5 de l'e-mail + nombre aléatoire(rand(1111, 99999))).
 
 Il reçoit automatiquement un e-mail lui confirmant que son inscription a bien été prise en compte. L'e-mail généré contient également le lien pour se désinscrire (un fichier .htaccess "nettoie" au préalable l'URL) qui redirigera l'utilisateur vers le site de présentation en lui confirmant que sa désinscription a bien été effectuée.
 
