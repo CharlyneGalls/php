@@ -29,4 +29,4 @@ _
 
 Projet réalisé en PHP dans le cadre de mon TFE, à l'ESIAJ.
 
-- [L'URL du défi.](http://charlynerivera.be/tfe/final)
+- [L'URL du défi.](http://charlynerivera.be/tfe/final/#inscription)
